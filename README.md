@@ -101,7 +101,3 @@ Y muchas más... 🚀
 </p>
 
 ---
-
-<h3 align="center">
-  ⭐ Si te gustan mis proyectos, dale una estrella ⭐
-</h3>
