@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 mi nombre es Erik Jovani / Erikram12 🖥️📱🗿 </h1>
+<h1 align="center">Hola 👋 mi nombre es Erik Jovani 🖥️🗿 </h1>
 <br>
 
 <h2>Sobre mi 😃</h2>
